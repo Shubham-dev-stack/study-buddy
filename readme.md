@@ -31,5 +31,5 @@ An intelligent AI study assistant built with TRAE IDE and MiniMax M2.7 model.
 Step 3 — Push karo:
 ```
 git add README.md
-git commit -m "Add README"
+git commit -m Add README
 git push origin main
