@@ -28,8 +28,3 @@ An intelligent AI study assistant built with TRAE IDE and MiniMax M2.7 model.
 ## 👨‍💻 Made at TRAE x MiniMax Workshop — New Delhi 2026
 ```
 
-Step 3 — Push karo:
-```
-git add README.md
-git commit -m Add README
-git push origin main
